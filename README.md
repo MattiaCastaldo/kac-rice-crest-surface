@@ -16,8 +16,8 @@ $u_\theta$. The notebook checks the formula by Monte Carlo simulation on an Airy
 |---|---|
 | Mattia Castaldo | PhD student, Laboratoire J.A. Dieudonné (LJAD), Université Côte d'Azur, Nice. Author of the code. |
 | Elena Di Bernardino | PhD supervisor |
-| Radomyra Shevchenko | Collaborator and advisor |
-| Michele Ancona | Collaborator |
+| Radomyra Shevchenko | PhD advisor |
+| Michele Ancona | PhD advisor |
 
 This work is funded by the French National Research Agency (ANR) through the COCHAIR project, within the PEPR Risques (IRiMa) programme.
 
